@@ -6,7 +6,11 @@ excerpt: >-
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
 image: images/11.jpg
-image_alt: A leather notebook and a pen on a wooden working table
+image_alt: >-
+  Photo by <a
+  href="https://unsplash.com/@polarmermaid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anne
+  Nygård</a> on <a
+  href="https://unsplash.com/s/photos/burn-out?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
 seo:
   title: The Elements of Great Workplace Design
   description: >-
