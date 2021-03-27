@@ -24,7 +24,7 @@ sections:
       - title: Software Development
         content: |
           Python and Django.
-      - title: Tools
+      - title: Tools&Technologies
         content: >
           Git, Docker, GCP, DRF, ElasticSearch, SQL, PostgreSQL, Kubernetes,
           Celery, RabbitMQ and Redis.
