@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Elements of Great Workplace Design
+      value: Burn-out
       keyName: property
     - name: 'og:description'
       value: >-
