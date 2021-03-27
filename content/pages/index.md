@@ -25,10 +25,9 @@ sections:
         content: |
           Python and Django.
       - title: Tools
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Git, Docker, GCP, DRF, ElasticSearch, SQL, PostgreSQL, Kubernetes,
+          Celery, RabbitMQ and Redis.
       - title: Others
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
