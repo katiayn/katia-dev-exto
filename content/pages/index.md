@@ -28,9 +28,9 @@ sections:
         content: |
           Github, Gitlab
       - title: Tools&Technologies
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Git, Docker, GCP, DRF, ElasticSearch, SQL, PostgreSQL, Kubernetes,
+          Celery, RabbitMQ, and Redis.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
