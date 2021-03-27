@@ -21,7 +21,7 @@ sections:
         content: >
           Team and product leadership, communication, time management,
           flexibility, cooperation, handling conflicts, mentoring, and 1on1s.
-      - title: Software Development
+      - title: Code
         content: |
           Python and Django.
       - title: Tools&Technologies
