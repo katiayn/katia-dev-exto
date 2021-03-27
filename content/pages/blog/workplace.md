@@ -10,7 +10,7 @@ image_alt: >-
   Nygård</a> on <a
   href="https://unsplash.com/s/photos/burn-out?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
 seo:
-  title: The Elements of Great Workplace Design
+  title: Burn-out
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan sapien blandit
