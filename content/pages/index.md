@@ -25,9 +25,8 @@ sections:
         content: |
           Python and Django.
       - title: Services
-        content: >
-          Git, Docker, GCP, DRF, ElasticSearch, SQL, PostgreSQL, Kubernetes,
-          Celery, RabbitMQ, and Redis.
+        content: |
+          Github, Gitlab
       - title: Tools&Technologies
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
