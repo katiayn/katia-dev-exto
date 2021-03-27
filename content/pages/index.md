@@ -13,7 +13,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: What I Do
     col_number: two
     is_numbered: true
     grid_items:
