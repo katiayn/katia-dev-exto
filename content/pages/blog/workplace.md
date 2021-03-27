@@ -1,9 +1,8 @@
 ---
 title: Burn-out
-excerpt: >-
-  
+excerpt: ''
 date: '2021-03-28'
-thumb_image: images/11_thumb.jpg
+thumb_image: images/famous-dolphin.jpg
 image: images/anne-nygard-IcQ-T2PiS5Q-unsplash.jpg
 image_alt: >-
   Photo by <a
