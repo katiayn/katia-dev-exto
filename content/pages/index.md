@@ -17,7 +17,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Engineering Management
+      - title: Soft Skills
         content: >
           Team and product leadership, communication, time management,
           flexibility, cooperation, handling conflicts, mentoring, and 1on1s.
