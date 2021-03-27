@@ -27,7 +27,7 @@ sections:
       - title: Tools&Technologies
         content: >
           Git, Docker, GCP, DRF, ElasticSearch, SQL, PostgreSQL, Kubernetes,
-          Celery, RabbitMQ and Redis.
+          Celery, RabbitMQ, and Redis.
       - title: Others
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
