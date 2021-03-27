@@ -19,15 +19,13 @@ sections:
     grid_items:
       - title: Engineering Management
         content: |
-          *   Team Leadership
+          ###### Team Leadership
 
-          *   Product Leadership
+          ###### Product Leadership
 
-          *   Communication
+          ###### Communication
 
-          *   Time management
-
-          *
+          ###### Time management
       - title: Software Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
