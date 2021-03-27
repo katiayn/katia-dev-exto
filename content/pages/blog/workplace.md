@@ -23,8 +23,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        
       keyName: property
     - name: 'og:image'
       value: images/11.jpg
