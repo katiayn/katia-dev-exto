@@ -43,3 +43,16 @@ seo:
       relativeUrl: true
 layout: post
 ---
+According to WHO (World Health Organization):
+
+
+
+“Burn-out is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. It is characterized by three dimensions:
+
+*   feelings of energy depletion or exhaustion;
+
+*   increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job; and
+
+*   reduced professional efficacy.
+
+Burn-out refers specifically to phenomena in the occupational context and should not be applied to describe experiences in other areas of life.” 
