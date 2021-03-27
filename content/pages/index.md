@@ -18,8 +18,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Engineering Management
-        content: |
-          Team Leadership, Product Leadership, Communication, Time management
+        content: >
+          Team and Product Leadership, communication, time management,
+          flexibility, cooperation, handling conflicts, mentoring, 1on1s, etc.
       - title: Software Development
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
