@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: My own thoughts and opinions.
 hide_title: false
 col_number: three
 seo:
