@@ -22,10 +22,8 @@ sections:
           Team and product leadership, communication, time management,
           flexibility, cooperation, handling conflicts, mentoring, and 1on1s.
       - title: Software Development
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: |
+          Python and Django.
       - title: Tools
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
