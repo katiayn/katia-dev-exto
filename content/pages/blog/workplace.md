@@ -1,8 +1,7 @@
 ---
 title: Burn-out
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  
 date: '2021-03-28'
 thumb_image: images/11_thumb.jpg
 image: images/anne-nygard-IcQ-T2PiS5Q-unsplash.jpg
