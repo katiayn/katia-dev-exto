@@ -5,7 +5,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
-image: images/11.jpg
+image: images/anne-nygard-IcQ-T2PiS5Q-unsplash.jpg
 image_alt: >-
   Photo by <a
   href="https://unsplash.com/@polarmermaid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anne
