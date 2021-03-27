@@ -6,7 +6,7 @@ sections:
     type: section_form
     content: >
       Hi there! Please fill the contact form below or send me an email at
-      [hello@katia.dev](mailto:hello@example.com).
+      [hello@katia.dev](mailto:hello@katia.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
