@@ -13,7 +13,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: My expertise
+    title: My Expertise
     col_number: two
     is_numbered: true
     grid_items:
