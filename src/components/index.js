@@ -43,7 +43,6 @@ export default {
     SectionForm,
     SectionGrid,
     SectionHero,
-    SectionPortfolio,
     SectionPosts,
     SectionTestimonials
 };
