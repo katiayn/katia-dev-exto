@@ -36,4 +36,6 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Welcome to my 
+Welcome to my Blog!
+
+It's great to have you here :)
