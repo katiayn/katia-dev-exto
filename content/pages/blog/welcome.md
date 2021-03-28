@@ -3,7 +3,7 @@ title: Welcome
 excerpt: ''
 date: '2021-04-01'
 thumb_image: images/welcome-sixteen-miles-out-unsplash.jpg
-image: null
+image: images/kind-celery.jpg
 image_alt: Photo by Sixteen Miles Out on Unsplash
 seo:
   title: Burn-out
