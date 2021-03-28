@@ -55,13 +55,6 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/katianakamura/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            },
-            {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/katiaynakamura/",
                 "style": "icon",
