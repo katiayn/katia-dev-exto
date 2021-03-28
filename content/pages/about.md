@@ -32,6 +32,6 @@ layout: page
 ---
 Hi! I'm Kátia Nakamura. 
 
-> "If you want something you've never had you must be willing to do something you've never done."
+> "If you want something you've never had you must be willing to do something you've never done. - Unknown"
 
 *Thank you for reading!*
