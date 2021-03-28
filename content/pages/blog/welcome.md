@@ -2,7 +2,7 @@
 title: Welcome
 excerpt: ''
 date: '2021-04-01'
-thumb_image: images/famous-dolphin.jpg
+thumb_image: images/welcome-sixteen-miles-out-unsplash.jpg
 image: images/anne-nygard-IcQ-T2PiS5Q-unsplash.jpg
 image_alt: ''
 seo:
