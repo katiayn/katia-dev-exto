@@ -43,7 +43,7 @@ sections:
         style: button
 seo:
   title: Kátia Nakamura
-  description: The preview of the Exto theme
+  description: Engineering Lead | Backend Dev
   extra:
     - name: 'og:type'
       value: website
