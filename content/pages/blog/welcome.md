@@ -1,5 +1,5 @@
 ---
-title: Burn-out
+title: Welcome
 excerpt: ''
 date: '2021-03-28'
 thumb_image: images/famous-dolphin.jpg
