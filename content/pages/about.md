@@ -1,6 +1,6 @@
 ---
 title: About
-image: images/IMG_20200823_123351_2.jpg
+image: images/about-katia-nakamura.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
