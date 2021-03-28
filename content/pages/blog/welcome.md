@@ -32,7 +32,7 @@ seo:
       value: images/11.jpg
       relativeUrl: true
 layout: post
-thumb_image_alt: Photo by Sixteen Miles Out on Unsplash
+thumb_image_alt: Welcome sign photo by Sixteen Miles Out on Unsplash
 ---
 ### Welcome to my Blog!
 
