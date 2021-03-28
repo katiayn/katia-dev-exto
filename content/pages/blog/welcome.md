@@ -3,7 +3,7 @@ title: Welcome
 excerpt: ''
 date: '2021-04-01'
 thumb_image: images/welcome-sixteen-miles-out-unsplash.jpg
-image: 
+image: null
 image_alt: ''
 seo:
   title: Burn-out
@@ -32,6 +32,7 @@ seo:
       value: images/11.jpg
       relativeUrl: true
 layout: post
+thumb_image_alt: Photo by Sixteen Miles Out on Unsplash
 ---
 ### Welcome to my Blog!
 
