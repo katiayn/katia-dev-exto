@@ -5,10 +5,6 @@ date: '2021-04-01'
 thumb_image: images/famous-dolphin.jpg
 image: images/anne-nygard-IcQ-T2PiS5Q-unsplash.jpg
 image_alt: >-
-  Photo by <a
-  href="https://unsplash.com/@polarmermaid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anne
-  Nygård</a> on <a
-  href="https://unsplash.com/s/photos/burn-out?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>   
 seo:
   title: Burn-out
   description: >-
