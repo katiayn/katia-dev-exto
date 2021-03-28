@@ -11,26 +11,6 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-  - section_id: services
-    type: section_grid
-    title: My Expertise
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - title: Soft Skills
-        content: >
-          Team and product leadership, communication, time management,
-          flexibility, cooperation, handling conflicts, mentoring, and 1on1s.
-      - title: Code
-        content: |
-          Python and Django.
-      - title: Services
-        content: |
-          Github, Gitlab
-      - title: Tools&Technologies
-        content: >
-          Git, Docker, GCP, DRF, ElasticSearch, SQL, PostgreSQL, Kubernetes,
-          Celery, RabbitMQ, and Redis.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
