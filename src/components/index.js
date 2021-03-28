@@ -26,7 +26,6 @@ export {
     SectionForm,
     SectionGrid,
     SectionHero,
-    SectionPortfolio,
     SectionPosts,
     SectionTestimonials
 };
