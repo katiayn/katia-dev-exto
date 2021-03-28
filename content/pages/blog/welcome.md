@@ -30,8 +30,7 @@ seo:
       value: The Elements of Great Workplace Design
     - name: 'twitter:description'
       value: >-
-        Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-        accumsan sapien blandit
+        
     - name: 'twitter:image'
       value: images/11.jpg
       relativeUrl: true
