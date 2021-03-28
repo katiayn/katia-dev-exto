@@ -8,8 +8,7 @@ image_alt: >-
 seo:
   title: Burn-out
   description: >-
-    Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-    accumsan sapien blandit
+    
   extra:
     - name: 'og:type'
       value: article
