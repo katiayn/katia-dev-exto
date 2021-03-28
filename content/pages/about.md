@@ -32,6 +32,7 @@ layout: page
 ---
 Hi! I'm Kátia Nakamura. 
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> "If you want something you've never had you must be willing to do something you've never done."
+
 
 *Thank you for reading!*
