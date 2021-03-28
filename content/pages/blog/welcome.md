@@ -4,7 +4,7 @@ excerpt: ''
 date: '2021-04-01'
 thumb_image: images/welcome-sixteen-miles-out-unsplash.jpg
 image: null
-image_alt: ''
+image_alt: Photo by Sixteen Miles Out on Unsplash
 seo:
   title: Burn-out
   description: ''
