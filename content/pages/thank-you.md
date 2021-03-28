@@ -1,7 +1,7 @@
 ---
 title: Thank You!
 image: images/thank-you-kelly-sikkema-unsplash.jpg
-image_alt: Thank You Led Signage
+image_alt: Thank You Photo by Kelly Sikkema on Unsplash
 layout: page
 ---
 
