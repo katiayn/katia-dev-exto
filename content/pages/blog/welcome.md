@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Burn-out
+      value: Welcome
       keyName: property
     - name: 'og:description'
       value: ''
