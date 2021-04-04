@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Elements of Great Workplace Design
+      value: Welcome to my Blog!
     - name: 'twitter:description'
       value: ''
     - name: 'twitter:image'
