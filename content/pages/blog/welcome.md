@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: ''
     - name: 'twitter:image'
-      value: images/11.jpg
+      value: images/welcome-sixteen-miles-out-unsplash.jpg
       relativeUrl: true
 layout: post
 thumb_image_alt: Welcome sign photo by Sixteen Miles Out on Unsplash
