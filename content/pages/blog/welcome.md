@@ -3,7 +3,7 @@ title: Welcome
 excerpt: ''
 date: '2021-04-01'
 thumb_image: images/welcome-sixteen-miles-out-unsplash.jpg
-image: images/kind-celery.jpg
+image: images/welcome-sixteen-miles-out-unsplash.jpg
 image_alt: Welcome sign photo by Sixteen Miles Out on Unsplash
 seo:
   title: Welcome
