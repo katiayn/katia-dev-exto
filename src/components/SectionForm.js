@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import {htmlToReact, markdownify} from '../utils';
-import ≈ from './FormField';
+import FormField from './FormField';
 
 export default class SectionForm extends React.Component {
     render() {
@@ -33,7 +33,7 @@ export default class SectionForm extends React.Component {
                       <FormField key={field_idx} {...this.props} field={field} />
                     ))}
                     <div className="form-submit">
-                      <button onClick={()=> console.log("Hi Katia")} type="submit" className="button">{_.get(section, 'submit_label', null)}</button>
+                      <button onClick={()=> console.log("Hi)} type="submit" className="button">{_.get(section, 'submit_label', null)}</button>
                     </div>
                   </form>
                 </div>
