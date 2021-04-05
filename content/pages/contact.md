@@ -5,7 +5,7 @@ sections:
   - section_id: contact
     type: section_content
     content: >
-      Hi there! Contact me an email at
+      Hi there! Send me an email at
       [hello@katia.dev](mailto:hello@katia.dev).
 seo:
   title: Contact
