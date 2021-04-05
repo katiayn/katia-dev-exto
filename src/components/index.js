@@ -23,7 +23,6 @@ export {
     Layout,
     Icon,
     SectionContent,
-    SectionForm,
     SectionGrid,
     SectionHero,
     SectionPosts,
