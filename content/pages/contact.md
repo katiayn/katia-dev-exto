@@ -3,7 +3,6 @@ title: Contact
 hide_title: false
 sections:
   - section_id: contact-form
-    type: section_form
     content: >
       Hi there! Please fill the contact form below or send me an email at
       [hello@katia.dev](mailto:hello@katia.dev).
