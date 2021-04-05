@@ -67,13 +67,6 @@
                 "style": "icon",
                 "icon": "facebook",
                 "new_window": true
-            },
-            {
-                "label": "Github Pages",
-                "url": "https://katiayn.github.io/",
-                "style": "icon",
-                "icon": "world",
-                "new_window": true
             }
         ]
     },
