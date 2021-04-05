@@ -39,7 +39,6 @@ export default {
     Layout,
     Icon,
     SectionContent,
-    SectionForm,
     SectionGrid,
     SectionHero,
     SectionPosts,
