@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Blog
-  description: Kátia Nakamura Blog
+  description: Kátia Nakamura Blog page
   extra:
     - name: 'og:type'
       value: website
