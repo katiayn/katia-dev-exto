@@ -7,7 +7,6 @@ import Header from './Header';
 import Layout from './Layout';
 import Icon from './Icon';
 import SectionContent from './SectionContent';
-import SectionForm from './SectionForm';
 import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
