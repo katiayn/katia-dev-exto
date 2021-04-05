@@ -6,7 +6,7 @@ sections:
     type: section_content
     content: >
       Hi there! Send me an email at
-      [hello@katia.dev](mailto:hello@katia.dev).
+      [hello@katia.dev](mailto:hello@katia.dev) or contact me directly on any Social Media.
 seo:
   title: Contact
   description: This is the contact page
