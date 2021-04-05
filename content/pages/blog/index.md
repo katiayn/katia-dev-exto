@@ -14,7 +14,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: Kátia Nakamura Blog page
+      value: Kátia Nakamura Blog
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
