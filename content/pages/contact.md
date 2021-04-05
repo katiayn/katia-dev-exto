@@ -7,8 +7,6 @@ sections:
     content: >
       Hi there! Please fill the contact form below or send me an email at
       [hello@katia.dev](mailto:hello@katia.dev).
-    form_id: contactForm
-    form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
