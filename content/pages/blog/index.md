@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Kátia Nakamura Blog
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
