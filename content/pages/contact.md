@@ -2,7 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-  - section_id: contact-form
+  - section_id: contact
     type: section_content
     content: >
       Hi there! Please fill the contact form below or send me an email at
